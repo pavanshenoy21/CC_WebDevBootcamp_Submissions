@@ -1,10 +1,16 @@
-# CC_WebDevBootcamp_Submissions
-🚀 CC Web Dev Bootcamp – Submissions
-Welcome! This repository is where you will submit your assignments for the Coding Club Web Development Bootcamp. Build consistently. Learn deeply. Improve every time.
 
-📂 Folder Structure (STRICT)
-Follow this exactly:
+# 🚀 CC Web Dev Bootcamp – Submissions  
 
+Welcome! This repository is where you will submit your assignments for the **Coding Club Web Development Bootcamp**.  
+**Build consistently. Learn deeply. Improve every time.**
+
+---
+
+## 📂 Folder Structure (STRICT)  
+
+Follow this structure exactly:  
+
+```
 YourName_USN/
 │
 ├── Assignment_1/
@@ -14,71 +20,114 @@ YourName_USN/
 │   └── (files)
 │
 └── ...
-📌 Naming Convention
-Format:
+```
 
+---
+
+## 📌 Naming Convention  
+
+Format:  
+```
 FullName_USN
-Example:
+```
 
+**Example:**  
+```
 Varun_Aditya_1RV24IS143
-⚠️ Incorrect naming or structure may lead to your submission being ignored.
+```
 
-📝 What to Submit
-For each assignment:
+⚠️ Incorrect naming or structure may lead to your submission being ignored.  
 
-Create a new folder: Assignment_X
+---
 
-Include all required files
+## 📝 What to Submit  
 
-Ensure your project:
+For each assignment:  
+- Create a new folder: `Assignment_X`  
+- Include all required files  
+- Ensure your project:  
+  - Runs without errors  
+  - Is neatly organized  
+  - Uses meaningful file names  
 
-Runs without errors
-Is neatly organized
-Uses meaningful file names
-(Optional but recommended)
+**Optional but recommended:**  
+- Add a `README.md` explaining:  
+  - What you built  
+  - How to run it  
 
-Add a README.md explaining:
+---
 
-What you built
-How to run it
-🔀 Submission Workflow (Do This Every Time)
-1. Fork the Repository
-👉 https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions Click Fork
+## 🔀 Submission Workflow (Do This Every Time)  
 
-2. Clone Your Fork
-git clone https://github.com/<your-username>/CC-Web-Dev-Bootcamp-Submissions.git
-cd CC-Web-Dev-Bootcamp-Submissions
-3. (First Time Only) Create Your Folder
-mkdir YourName_USN
-4. Add Your Assignment
-YourName_USN/Assignment_X/
-5. Stage, Commit, Push
-git add .
-git commit -m "Assignment_X - YourName"
-git push origin main
-6. Create Pull Request (PR)
-Go to your fork on GitHub
-Click Compare & Pull Request
-Submit the PR
-🔁 Updating Your Fork (IMPORTANT)
-Before every new assignment, sync your repo:
+1. **Fork the Repository**  
+   👉 [CC-Web-Dev-Bootcamp-Submissions](https://github.com/hash066/CC_WebDevBootcamp_Submissions) → Click **Fork**  
 
+2. **Clone Your Fork**  
+   ```bash
+   git clone https://github.com/<your-username>/CC-Web-Dev-Bootcamp-Submissions.git
+   cd CC-Web-Dev-Bootcamp-Submissions
+   ```
+
+3. **(First Time Only) Create Your Folder**  
+   ```bash
+   mkdir YourName_USN
+   ```
+
+4. **Add Your Assignment**  
+   ```
+   YourName_USN/Assignment_X/
+   ```
+
+5. **Stage, Commit, Push**  
+   ```bash
+   git add .
+   git commit -m "Assignment_X - YourName"
+   git push origin main
+   ```
+
+6. **Create Pull Request (PR)**  
+   - Go to your fork on GitHub  
+   - Click **Compare & Pull Request**  
+   - Submit the PR  
+
+---
+
+## 🔁 Updating Your Fork (IMPORTANT)  
+
+Before every new assignment, sync your repo:  
+
+```bash
 git remote add upstream https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions.git
 git pull upstream main
 git push origin main
-⚠️ Rules
-❌ Do NOT touch other students' folders
-❌ Do NOT rename/delete existing content
-❌ Do NOT push directly to main repo
-✅ Always submit via PR
-✅ Follow structure strictly
-💡 Tips
-Start early — rushed work shows
-If something breaks, debug it (that’s where real learning happens)
-Don’t just copy — understand what you write
-🎯 Final Note
-Don’t treat this like a checklist. Treat it like your first step into building real-world projects.
+```
 
-Consistency > perfection. Keep showing up.
+---
 
-Happy coding 💻🔥
+## ⚠️ Rules  
+
+- ❌ Do NOT touch other students' folders  
+- ❌ Do NOT rename/delete existing content  
+- ❌ Do NOT push directly to main repo  
+- ✅ Always submit via PR  
+- ✅ Follow structure strictly  
+
+---
+
+## 💡 Tips  
+
+- Start early — rushed work shows  
+- If something breaks, debug it (that’s where real learning happens)  
+- Don’t just copy — understand what you write  
+
+---
+
+## 🎯 Final Note  
+
+Don’t treat this like a checklist. Treat it as your **first step into building real-world projects**.  
+
+**Consistency > Perfection. Keep showing up.**  
+
+Happy coding 💻🔥  
+
+
